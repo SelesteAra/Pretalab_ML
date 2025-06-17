@@ -10,3 +10,4 @@ Este projeto de Machine Learning (ML) tem como objetivo identificar se uma pesso
 O treinamento inicial do modelo é realizado com um conjunto de fotos que ensinam a ML a distinguir entre mulheres pretas e brancas.
 
 Após o treinamento, o sistema é capaz de identificar a cor da mulher em uma imagem fornecida.
+(Clonando o repositório)
